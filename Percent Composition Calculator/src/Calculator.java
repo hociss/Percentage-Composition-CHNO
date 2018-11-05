@@ -19,8 +19,6 @@ public class Calculator {
 		double nN = N / 14.01;
 		double nO = O / 16;
 		
-		//if()
-		
 		if (nC < nH && nC < nN && nC < nO) {
 			System.out.println("C: " + nC + "mol");
 			System.out.println("H: " + nH + "mol");
